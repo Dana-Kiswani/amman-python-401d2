@@ -10,5 +10,4 @@
 *To reach the middle of the array, we compare the given number with the valyes inside the array. Then we insert the number, and break outside the loop.*
 
 ***Solution***
-
 ![](assets/challenge2.png)
