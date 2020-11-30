@@ -11,4 +11,4 @@
 
 ***Solution***
 
-![](assets/challenge1.png)
+![](/assets/challenge1.png)
